@@ -1,4 +1,4 @@
-# Poor-Supervised Evaluation for SuperLLM via Mutual Consistency (ACL2024 findings)
+# Poor-Supervised Evaluation for SuperLLM via Mutual Consistency [ACL2024 findings]
 
 <img src=first.png alt="SuperLLM" width="300" height="200">
 
